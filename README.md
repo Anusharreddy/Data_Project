@@ -1,2 +1,2 @@
-# Data_Project
+# Data Visualization Using Tableau
 Data Visualization using Tableau
