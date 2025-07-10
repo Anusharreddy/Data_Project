@@ -32,15 +32,15 @@ Welcome to a collection of interactive **Tableau data visualization projects** b
 
 **Tools**: Tableau Public, Google Sheets, Cluster Analysis
 
-### Lab 1:
+### Lab 1: Module 1 to Module 3
 - **Sales by Department**: Analyzed profits/discounts across US regions using area and stacked bar charts.
 - **Profit by State**: Used map visualizations for identifying best/worst performing states.
 
-### Lab 2:
+### Lab 2: Module 4 to Module 6
 - **Rental Discount Analysis**: Visualized discount percentages by floor, room, and building.
 - **Loan Clustering**: Applied K-means and hierarchical clustering for customer segmentation.
 
-### Lab 3:
+### Lab 3: Module 7 to Module 10
 - **Shipping Cost vs Profit**: Used colored scatter plots to compare profitability across customer segments.
 - **Profit Over Time & Location**: Interactive dashboard with filters by product category and region.
 - **Sales vs Bathrooms & Property Size**: Revealed trends in real estate across foreclosure and realtor sales.
