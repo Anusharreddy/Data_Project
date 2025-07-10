@@ -1,6 +1,6 @@
 # 📊 Data Visualization Projects – Tableau | Exploratory Analytics
 
-Welcome to a collection of interactive **Tableau data visualization projects** by Anushareddy Ramachandra Reddy, created as part of coursework and competitions. Each project demonstrates applied skills in data cleaning, analytics, and storytelling through dashboards across various domains such as airlines, Airbnb, retail, and real estate.
+Welcome to a collection of interactive **Tableau data visualization projects** by Anushareddy Ramachandra Reddy, Each project demonstrates applied skills in data cleaning, analytics, and storytelling through dashboards across various domains such as airlines, Airbnb, retail, and real estate.
 
 ## 🛫 Competition 1 & 3 – Airline Reviews Analysis
 
