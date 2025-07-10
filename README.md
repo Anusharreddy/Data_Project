@@ -1,8 +1,8 @@
-# 📊 Data Visualization Projects – Tableau | Exploratory Analytics
+# Data Visualization Projects – Tableau | Exploratory Analytics
 
 Welcome to a collection of interactive **Tableau data visualization projects** by Anushareddy Ramachandra Reddy, Each project demonstrates applied skills in data cleaning, analytics, and storytelling through dashboards across various domains such as airlines, Airbnb, retail, and real estate.
 
-## 🛫 Competition 1 & 3 – Airline Reviews Analysis
+## Competition 1 & 3 – Airline Reviews Analysis
 
 **Tools**: Tableau, Calculated Fields, Statistical Analysis
 
@@ -15,7 +15,7 @@ Welcome to a collection of interactive **Tableau data visualization projects** b
 
 ---
 
-## 🏠 Competition 2 – Airbnb Rental Property Profitability
+## Competition 2 – Airbnb Rental Property Profitability
 
 **Focus**: Net Profit Analysis, Rent Type Optimization, ROI Evaluation
 
@@ -28,7 +28,7 @@ Welcome to a collection of interactive **Tableau data visualization projects** b
 
 ---
 
-## 🛒 Lab Series Projects – Superstore, Real Estate, Healthcare & Finance
+## Lab Series Projects – Superstore, Real Estate, Healthcare & Finance
 
 **Tools**: Tableau Public, Google Sheets, Cluster Analysis
 
@@ -48,14 +48,14 @@ Welcome to a collection of interactive **Tableau data visualization projects** b
 
 ---
 
-## 🔧 Skills Demonstrated
+## Skills Demonstrated
 
-- 📊 Tableau (Dashboards, filters, clustering, maps, trend lines)
-- 🧹 Data Cleaning & Feature Engineering
-- 📈 Time-Series & Statistical Analysis
-- 🧠 Customer Segmentation & Correlation
-- 🌍 Geospatial Visualization
-- 📑 Dashboard Storytelling & Visual Best Practices
+- Tableau (Dashboards, filters, clustering, maps, trend lines)
+- Data Cleaning & Feature Engineering
+- Time-Series & Statistical Analysis
+- Customer Segmentation & Correlation
+- Geospatial Visualization
+- Dashboard Storytelling & Visual Best Practices
 
 > For dashboard previews or to explore individual visualizations, visit my [Tableau Public Profile](https://github.com/Anusharreddy).
 
