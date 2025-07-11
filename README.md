@@ -57,6 +57,11 @@ Welcome to a collection of interactive **Tableau data visualization projects** b
 - Geospatial Visualization
 - Dashboard Storytelling & Visual Best Practices
 
+## Download Large Files
+Some files in this project exceed GitHub's upload limit and are hosted externally. You can download them from the link(s) below:
+
+[ Download Excel & Notebook Files (Google Drive)](https://drive.google.com/drive/folders/1H3DUj7xRQQa_F_FsBLm8-ErR5IQD_0Ar?usp=drive_link)
+
 > For dashboard previews or to explore individual visualizations, visit my [Tableau Public Profile](https://github.com/Anusharreddy).
 
 
